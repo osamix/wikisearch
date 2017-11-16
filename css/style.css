@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css?family=Artifika');
+
+
+button:hover {
+  cursor: pointer;
+}
+
+body {
+  background-color: #aeaeae;
+}
+
+h1 {
+  font-family: 'Artifika', serif;
+  margin-top: 20px;
+}
+
+a {
+  color: #000000;
+}
+
+#sea1 {
+  margin-top: 20px;
+  }
+
+#searchBar {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+#result {
+  color: #000000;
+  text-align: center;
+  margin: 20px auto;
+  max-width: 1400px;
+}
+
+.container-fluid {
+  text-align: center;
+ }
+
+.entry {
+  background-color: #eaeaea;
+  text-align: left;
+  margin: 15px auto;
+  padding: 5px;
+  border-radius: 5px;
+}
