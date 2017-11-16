@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Artifika');
+@import url('https://fonts.googleapis.com/css?family=Amiri|Open+Sans');
 
 
 button:hover {
@@ -7,10 +7,11 @@ button:hover {
 
 body {
   background-color: #aeaeae;
+  font-family: 'Open Sans', sans-serif;
 }
 
 h1 {
-  font-family: 'Artifika', serif;
+  font-family: 'Amiri', serif;
   margin-top: 20px;
 }
 
